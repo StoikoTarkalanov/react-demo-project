@@ -1,0 +1,20 @@
+.edit-container {
+    display: flex;
+}
+
+.form-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.form-content input {
+    padding: 20px 100px;
+    margin-bottom: 14px;
+}
+
+.attention {
+    padding: 100px;
+}

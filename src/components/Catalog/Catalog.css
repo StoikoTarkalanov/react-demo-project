@@ -1,0 +1,28 @@
+.catalog-data {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 250px;
+}
+
+.catalog-title {
+    text-align: center;
+}
+
+.catalog-select {
+    text-align: center;
+}
+
+.data-card {
+    padding: 50px;
+    margin-top: 20px;
+    border: 1px solid red;
+}
+
+.data-card-img-container {
+    width: 400px;
+}
+
+.data-card-img-container img {
+    width: 100%;
+}
